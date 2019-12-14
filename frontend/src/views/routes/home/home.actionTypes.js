@@ -1,0 +1,3 @@
+export const FETCH_HOTELS = "FETCH_HOTELS";
+export const FETCH_HOTELS_FAIL = 'FETCH_HOTELS_FAIL';
+export const SORT_BY_PRICE = 'SORT_BY_PRICE';

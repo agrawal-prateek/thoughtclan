@@ -1,0 +1,23 @@
+{
+  "name": "thoughtclan-apiserever",
+  "version": "0.1.1",
+  "description": "API server",
+  "author": "Prateek Agrawal",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.14.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^6.7.2",
+    "sequelize-cli": "^5.5.1"
+  }
+}
